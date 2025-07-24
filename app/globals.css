@@ -13,6 +13,7 @@ body {
 h1, h2 {
   font-family: var(--font-ramagothic), sans-serif;
   text-transform: uppercase;
+  font-weight: normal;
 }
 
 button {
